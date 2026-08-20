@@ -105,5 +105,3 @@ os.environ['KAGGLE_KEY'] = "your_actual_api_key"
 This comparative study demonstrates that transfer learning with modern CNN architectures achieves high classification accuracy for pneumonia detection, offering scalable automated assistance for medical image analysis.
 
 ```
-
-```

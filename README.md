@@ -1,6 +1,5 @@
-
 ```markdown
-# 🫁 Chest X-Ray Pneumonia Classification using Deep Learning
+## 🫁 Chest X-Ray Pneumonia Classification using Deep Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rafiaanaeem/Chest-X-Ray-Pneumonia-Classification/blob/main/main.ipynb)
 

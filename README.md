@@ -1,9 +1,9 @@
 ```markdown
-## 🫁 Chest X-Ray Pneumonia Classification using Deep Learning
+##  Chest X-Ray Pneumonia Classification using Deep Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rafiaanaeem/Chest-X-Ray-Pneumonia-Classification/blob/main/main.ipynb)
 
-## 📌 Overview
+##  Overview
 This project is a deep learning-based system for automated detection of pneumonia from chest X-ray images. It uses transfer learning with two pretrained Convolutional Neural Network (CNN) architectures and compares their diagnostic performance:
 - **DenseNet-121**
 - **EfficientNet-B0**
